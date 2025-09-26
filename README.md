@@ -1,0 +1,1 @@
+A simple Python script to scrape the latest news headlines from a specified news website. This tool uses requests to fetch the web page content and BeautifulSoup to parse the HTML and extract headline information.
